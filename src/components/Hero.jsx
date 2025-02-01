@@ -2,7 +2,7 @@ import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/all";
 import { TiLocationArrow } from "react-icons/ti";
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 
 import Button from "./Button";
 import VideoPreview from "./VideoPreview";
@@ -105,7 +105,6 @@ const Hero = () => {
                   id="current-video"
                   className="size-64 origin-center scale-150 object-cover object-center"
                   // onLoadedData={handleVideoLoad}
-                  playsInline
                   preload="auto"
                 />
               </div>
