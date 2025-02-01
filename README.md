@@ -23,4 +23,4 @@ The UI/UX is smooth and intuitive, ensuring effortless navigation across all dev
 
 The code architecture emphasizes reusability and scalability, ensuring easy maintenance and long-term efficiency while keeping the design sleek and sustainable.
 
-#### You can see it live [here](https://zentry-awwwards-coral.vercel.app/) 🚨
+#### You can see it live [here](https://zentry-awwwards-ruby.vercel.app/) 🚨
